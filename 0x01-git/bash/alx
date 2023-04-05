@@ -3,9 +3,9 @@ echo "ALX"
 ^c
 ^C
 root@3807e7689d32:/alx-pre_course/0x01-git/bash# cat > school
-echo "ALX"
+echo :ALX School" 
 echo "ALX School is so cool!"
 root@3807e7689d32:/alx-pre_course/0x01-git/bash# git add .
 root@3807e7689d32:/alx-pre_course/0x01-git/bash# git commit -m “Starting to code today, so cool”
 ls
-*c
+*c 
